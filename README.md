@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jls951 retired french electronic and software engineer
 - 👀 I’m interested in ESP and RPI microcontroller applications
 - 🌱 I’m currently learning ESPHOME, ESP32 ESP8266
-- 💞️ I’m looking to collaborate on (too early to collaborate to anythong ;-) )
+- 💞️ I’m looking to collaborate on (too early to collaborate to anything ;-) )
 - 📫 How to reach me ...
 
 <!---
